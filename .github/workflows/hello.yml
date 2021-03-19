@@ -14,4 +14,4 @@ jobs:
           echo "Hello ISIS3710"
       - name : Fecha
         run : |
-          echo hoy es $(date(1))
+          echo hoy es $(date())
